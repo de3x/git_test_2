@@ -1,0 +1,1 @@
+This is David's first (second, actually) runthrough of his first git project!
